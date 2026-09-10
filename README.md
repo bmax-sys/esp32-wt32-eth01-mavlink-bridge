@@ -77,6 +77,8 @@ Full documentation:
 
 ## Web Interface
 
+![bmax_sys Web Interface](docs/images/web-interface.png)
+
 The WT32-ETH01 includes a built-in web interface for network and UART configuration.
 
 Default address:
